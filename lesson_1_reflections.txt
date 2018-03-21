@@ -1,0 +1,28 @@
+How did viewing a diff between 2 versions of a file help you see a bug that was introduced?
+
+The diff command made it easy to compare each file side by side with line numbers. The code stood out more and it saved lots of time.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+You can easily see where changes were made that may have crashed the program. You can see who made the changes and ask them for help. You can see when/where new features were added and by who. You can also copy these old files and compare them with the new to easily see changes and compare the files.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+The pro of manually choosing when to crate a commit is you get to make the decision of where to save and what to save. The con is the logical structure in this may be bad because of the user. The commit may be too short or too long. But with auto save, you have no control, and the saved space may have no value what so ever. 
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+So it is easier to compare files and make changes. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+You can use git log to see when and who changed the files along with comments about the changes, and git diff to see what changes were made between the 2 files, what was deleted, what was added. 
+
+How might using version control make you more confident to make changes that could break something?
+
+It would make me confident because I know that if I were to make a change and it didn't work out, I could set it back to a pervious version or compare the two versions and see where I made my mistake (learn from it).
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	I want to use git for working on code in teams. Git also seems like a cool way to send commands to my computer. 
+
